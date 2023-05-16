@@ -1,0 +1,5 @@
+C:\Users\Paulo\Desktop\sisnet\Primeiro periodo\Redes de computaroes\Trabalho M2.1\Client-side\bin\Release\net7.0\publish\Client-side.exe
+C:\Users\Paulo\Desktop\sisnet\Primeiro periodo\Redes de computaroes\Trabalho M2.1\Client-side\bin\Release\net7.0\publish\Client-side.dll
+C:\Users\Paulo\Desktop\sisnet\Primeiro periodo\Redes de computaroes\Trabalho M2.1\Client-side\bin\Release\net7.0\publish\Client-side.deps.json
+C:\Users\Paulo\Desktop\sisnet\Primeiro periodo\Redes de computaroes\Trabalho M2.1\Client-side\bin\Release\net7.0\publish\Client-side.runtimeconfig.json
+C:\Users\Paulo\Desktop\sisnet\Primeiro periodo\Redes de computaroes\Trabalho M2.1\Client-side\bin\Release\net7.0\publish\Client-side.pdb

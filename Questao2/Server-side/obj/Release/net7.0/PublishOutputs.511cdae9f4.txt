@@ -1,0 +1,5 @@
+C:\Users\Paulo\Desktop\sisnet\1 periodo\Redes de computadores\Trabalho M2\RedesM2\Questao2\server-side\bin\Release\net7.0\publish\Server-side.exe
+C:\Users\Paulo\Desktop\sisnet\1 periodo\Redes de computadores\Trabalho M2\RedesM2\Questao2\server-side\bin\Release\net7.0\publish\Server-side.dll
+C:\Users\Paulo\Desktop\sisnet\1 periodo\Redes de computadores\Trabalho M2\RedesM2\Questao2\server-side\bin\Release\net7.0\publish\Server-side.deps.json
+C:\Users\Paulo\Desktop\sisnet\1 periodo\Redes de computadores\Trabalho M2\RedesM2\Questao2\server-side\bin\Release\net7.0\publish\Server-side.runtimeconfig.json
+C:\Users\Paulo\Desktop\sisnet\1 periodo\Redes de computadores\Trabalho M2\RedesM2\Questao2\server-side\bin\Release\net7.0\publish\Server-side.pdb
