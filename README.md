@@ -21,4 +21,5 @@ Para testar o codigo já compilado previamente por mim:
 
 > dentro da pasta do projeto
 /bin/Release/net7.0/publish/Client-side.exe
+e
 /bin/Release/net7.0/publish/Server-side.exe
