@@ -18,14 +18,15 @@ class HttpServer
             HttpListenerContext context = listener.GetContext();
             HttpListenerRequest request = context.Request;
 
-            // Verifica se a solicitação é uma requisição GET para o diretório raiz do servidor
+            //verifica se a solicitação é uma requisição GET para o diretório raiz do servidor
             if (request.HttpMethod == "GET" && request.Url.LocalPath == "/")
             {
                 HttpListenerResponse response = context.Response;
 
-                // Gera a lista de arquivos no diretório raiz do servidor
+                //gera a lista de arquivos no diretório raiz do servidor
                 string[] files = Directory.GetFiles(Environment.CurrentDirectory);
-                string fileList = "<ul>";
+                string fileList = "<h1>Lista de arquivos no diretorio do projeto.</h1>";
+                fileList += "<ul>";
                 foreach (string file in files)
                 {
                     fileList += "<li>" + Path.GetFileName(file) + "</li>";

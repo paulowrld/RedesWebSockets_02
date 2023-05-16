@@ -1,0 +1,5 @@
+C:\Users\Paulo\Desktop\Faculdade\sisnet\Primeiro periodo\Redes de computaroes\Trabalho M2.1\RedesWebSockets_02\questao2\server-side\bin\Release\net7.0\publish\Server-side.exe
+C:\Users\Paulo\Desktop\Faculdade\sisnet\Primeiro periodo\Redes de computaroes\Trabalho M2.1\RedesWebSockets_02\questao2\server-side\bin\Release\net7.0\publish\Server-side.dll
+C:\Users\Paulo\Desktop\Faculdade\sisnet\Primeiro periodo\Redes de computaroes\Trabalho M2.1\RedesWebSockets_02\questao2\server-side\bin\Release\net7.0\publish\Server-side.deps.json
+C:\Users\Paulo\Desktop\Faculdade\sisnet\Primeiro periodo\Redes de computaroes\Trabalho M2.1\RedesWebSockets_02\questao2\server-side\bin\Release\net7.0\publish\Server-side.runtimeconfig.json
+C:\Users\Paulo\Desktop\Faculdade\sisnet\Primeiro periodo\Redes de computaroes\Trabalho M2.1\RedesWebSockets_02\questao2\server-side\bin\Release\net7.0\publish\Server-side.pdb
