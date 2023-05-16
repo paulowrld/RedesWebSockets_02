@@ -20,6 +20,10 @@ Para testar o codigo já compilado previamente por mim:
 (tanto no server-side quanto no client-side)
 
 > dentro da pasta do projeto
-/bin/Release/net7.0/publish/Client-side.exe
+/bin/Release/net7.0/publish/Client-side.exe 
 e
 /bin/Release/net7.0/publish/Server-side.exe
+
+
+> Para testar o codigo no navegador, é só executar o Server-Side.exe e abrir o link "http://localhost:8080/"
+Caso ocorra algum erro por conta da porta, é só alterar no codigo e executar novamente o comando para executar o codigo.

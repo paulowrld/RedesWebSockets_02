@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Paulo\\Desktop\\sisnet\\1 periodo\\Redes de computadores\\Trabalho M2\\RedesM2\\Questao2\\server-side\\Server-side.csproj": {}
+    "C:\\Users\\Paulo\\Desktop\\Faculdade\\sisnet\\Primeiro periodo\\Redes de computaroes\\Trabalho M2.1\\RedesWebSockets_02\\questao2\\server-side\\Server-side.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Paulo\\Desktop\\sisnet\\1 periodo\\Redes de computadores\\Trabalho M2\\RedesM2\\Questao2\\server-side\\Server-side.csproj": {
+    "C:\\Users\\Paulo\\Desktop\\Faculdade\\sisnet\\Primeiro periodo\\Redes de computaroes\\Trabalho M2.1\\RedesWebSockets_02\\questao2\\server-side\\Server-side.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Paulo\\Desktop\\sisnet\\1 periodo\\Redes de computadores\\Trabalho M2\\RedesM2\\Questao2\\server-side\\Server-side.csproj",
+        "projectUniqueName": "C:\\Users\\Paulo\\Desktop\\Faculdade\\sisnet\\Primeiro periodo\\Redes de computaroes\\Trabalho M2.1\\RedesWebSockets_02\\questao2\\server-side\\Server-side.csproj",
         "projectName": "Server-side",
-        "projectPath": "C:\\Users\\Paulo\\Desktop\\sisnet\\1 periodo\\Redes de computadores\\Trabalho M2\\RedesM2\\Questao2\\server-side\\Server-side.csproj",
+        "projectPath": "C:\\Users\\Paulo\\Desktop\\Faculdade\\sisnet\\Primeiro periodo\\Redes de computaroes\\Trabalho M2.1\\RedesWebSockets_02\\questao2\\server-side\\Server-side.csproj",
         "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Paulo\\Desktop\\sisnet\\1 periodo\\Redes de computadores\\Trabalho M2\\RedesM2\\Questao2\\server-side\\obj\\",
+        "outputPath": "C:\\Users\\Paulo\\Desktop\\Faculdade\\sisnet\\Primeiro periodo\\Redes de computaroes\\Trabalho M2.1\\RedesWebSockets_02\\questao2\\server-side\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Paulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
